@@ -1,0 +1,28 @@
+{
+  "name": "audio-to-text-example",
+  "version": "1.0.0",
+  "description": "an example of how to convert audio to text using google-cloud-speech-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bialikover/audio-to-text-example.git"
+  },
+  "keywords": [
+    "audio2text",
+    "poc",
+    "text",
+    "audio"
+  ],
+  "author": "Adan G. Galvan Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bialikover/audio-to-text-example/issues"
+  },
+  "homepage": "https://github.com/bialikover/audio-to-text-example#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^1.0.0"
+  }
+}
